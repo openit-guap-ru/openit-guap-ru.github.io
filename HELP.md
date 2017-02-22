@@ -1,5 +1,7 @@
 ##  Справка по оформлению текстов и html-страниц для GitHub
 
+[Просмотр этой страницы на сайте](https://openit-guap-ru.github.io/HELP.html).
+
 [Редактировать эту страницу](https://github.com/openit-guap-ru/openit-guap-ru.github.io/edit/master/README.md).
 
 ### Синтаксис оформления заголовков и текста
