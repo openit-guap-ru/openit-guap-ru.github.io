@@ -1,4 +1,4 @@
-##  Лаборатория Открытых Информационных Технологий
+##  Справка по оформлению текстов и html-страниц для GitHub
 
 [Редактировать эту страницу](https://github.com/openit-guap-ru/openit-guap-ru.github.io/edit/master/README.md).
 
