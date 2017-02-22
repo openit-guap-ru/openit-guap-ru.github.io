@@ -31,8 +31,8 @@ _Наклонный текст_
 
 ### Jekyll темы оформления
 
-[Репозиторий тем](https://github.com/openit-guap-ru/openit-guap-ru.github.io/settings). 
+Сменить тему можно в [настройках](https://github.com/openit-guap-ru/openit-guap-ru.github.io/settings). 
 
-Выбранная тема хранится в фале `_config.yml`.
+Тема хранится в фале `_config.yml`.
 
 [Документация](https://help.github.com/categories/github-pages-basics/)
