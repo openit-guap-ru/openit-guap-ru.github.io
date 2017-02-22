@@ -22,7 +22,9 @@ _Наклонный текст_
 
 `Исходный код`
 
-[Ссылка](url) and ![Картирка](src)
+[Ссылка](url) 
+
+![Картирка](src)
 ```
 
 Подробнее [здесь](https://guides.github.com/features/mastering-markdown/).
