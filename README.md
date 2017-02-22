@@ -1,0 +1,1 @@
+# openit-guap-ru.github.io
