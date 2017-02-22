@@ -1,37 +1,36 @@
-## Лаборатория Открытых Информационных Технологий
+##  Лаборатория Открытых Информационных Технологий
 
 [Редактировать эту страницу](https://github.com/openit-guap-ru/openit-guap-ru.github.io/edit/master/README.md).
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Синтаксис оформления заголовков и текста
 
 ```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+#   Заголовок уровня 1
+##  Заголовок уровня 2
+### Заголовок уровня 3
 
-- Bulleted
-- List
+- Простой
+- перечень
 
-1. Numbered
-2. List
+1. Пронумерованный
+2. Перечень
 
-**Bold** and _Italic_ and `Code` text
+**Жирный текст** 
 
-[Link](url) and ![Image](src)
+_Наклонный текст_ 
+
+`Исходный код`
+
+[Ссылка](url) and ![Картирка](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Подробнее [здесь](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+### Jekyll темы оформления
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/openit-guap-ru/openit-guap-ru.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+[Репозиторий тем](https://github.com/openit-guap-ru/openit-guap-ru.github.io/settings). 
 
-### Support or Contact
+Выбранная тема хранится в фале `_config.yml`.
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+[Документация](https://help.github.com/categories/github-pages-basics/)
